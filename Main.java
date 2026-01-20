@@ -6,7 +6,9 @@ public class Main {
         int y = 5;
 
         int resultado = x + y;
+        int resta = x - y;
 
-        System.out.println("La suma la: " + resultado);
+        System.out.println("La suma es: " + resultado);
+         System.out.println("La resta es: " + resta);
     }
 }
